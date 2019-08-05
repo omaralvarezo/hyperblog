@@ -8,6 +8,7 @@ En este curso vemos:
 - El verdadero amor por las buenas prácticas
 - Trucos del profesor
 - Personalidades múltiple de Freddy
+- Creado por Omar Alvarez
 
 Si quieres ver más entra ahora a [**curso de Git & GitHub**](https://platzi.com/clases/git-github/), está buenísimo.
 
